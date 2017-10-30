@@ -1,9 +1,8 @@
 <?xml version="1.0"?>
 <!--
 /**
- * @author Soul + Wolf
- * @copyright Copyright (c) 2017 Soul + Wolf (https://www.soulandwolf.com.au)
- * @package Soul_Sample
+ * @author Renato Medina <medina@mdnsolutions.com>
+ * @package MDN_Newsletter
  */
 -->
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
