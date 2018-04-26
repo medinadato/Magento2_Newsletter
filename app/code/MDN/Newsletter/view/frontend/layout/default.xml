@@ -5,11 +5,11 @@
  * @package MDN_Newsletter
  */
 -->
-<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsi">
     <body>
         <referenceBlock name="subscribe">
             <arguments>
-                <argument name="template" xsd:type="string">MDN_Newsletter::subscriber.phtml</argument>
+                <argument name="template" xsi:type="string">MDN_Newsletter::subscribe.phtml</argument>
             </arguments>
         </referenceBlock>
     </body>
